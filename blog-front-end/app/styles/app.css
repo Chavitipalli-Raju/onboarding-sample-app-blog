@@ -1,0 +1,59 @@
+@import "login.css";
+@import "signup.css";
+@import "newpost.css";
+@import "posts.css";
+
+body{
+  background-color: lightgray;
+}
+
+#nav-bar{
+  display: flex;
+  background: #000000;
+  padding: 10px 5px;
+}
+.header-item{
+  margin: 0 5px;
+  padding: 0 10px;
+  color: #ffffff;
+}
+.header-item-username{
+  margin: 0 5px;
+  padding: 0 10px;
+  color: #ffffff75;
+}
+
+.header-item:hover{
+  cursor: pointer;
+  border: 1px #eeeeee30;
+  border-radius: 5px;
+  background: #eeeeee30;
+ }
+
+.flex-item-title{
+  color: #EEEEEE90;
+  padding: 0 10px;
+  margin: 0 10px;
+
+}
+
+.flex-item-title:hover{
+  text-shadow: 2px 2px 15px white;
+  cursor: pointer;
+  border: 1px #eeeeee30;
+  border-radius: 5px;
+}
+
+#empty-flex-item{
+  flex-grow: 1;
+}
+
+#submit-button{
+  width: calc(100% - 10px);
+  margin: 20px 0;
+  height: 30px;
+  display: block;
+  color: white;
+  background-color: #0A84C6;
+  border: none;
+}

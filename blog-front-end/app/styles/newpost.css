@@ -1,0 +1,20 @@
+#post-title-input, #post-body-input, #create-post-button{
+  border: 1px solid #d3d3d3;
+  margin: 5px;
+  padding: 5px 10px;
+  width: 95%;
+  border-radius: 5px;
+}
+#post-title-input{
+  height: 30px;
+
+}
+#post-body-input{
+  min-height: 200px;
+}
+#create-post-button{
+  width: 40%;
+  min-width: 100px;
+  margin-top: 20px;
+  justify-content: center;
+}

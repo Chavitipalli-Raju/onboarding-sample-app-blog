@@ -1,0 +1,18 @@
+<div id="posts-body">
+  <div id="posts-left"></div>
+  <div id="posts">
+  {{#each model as |post|}}
+    <div id="post">
+      <div id="post-header">
+        <p id="post-title"><strong>{{post.title}}</strong></p>
+        {{#if post.canDelete}}
+          <p id="button-delete-post" {{action 'deletePost' post.postid on='click'}}>Delete</p>
+        {{/if}}
+      </div>
+      <p id="post-description"> {{post.description}} </p>
+    </div>
+  {{/each}}
+  </div>
+  <div id="posts-right"></div>
+</div>
+{{outlet}}

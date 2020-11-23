@@ -1,0 +1,20 @@
+<div id="nav-bar" class="navbar-fixed-top">
+  <div class="flex-item-title">{{#link-to 'posts' tagName='h4'}}  BLOG {{/link-to}}</div>
+  {{#if model.isLogin}}
+    <div class="header-item">{{#link-to 'posts' tagName='h4'}} Posts {{/link-to}}</div>
+    <div class="header-item">{{#link-to 'newpost' tagName='h4'}} Create Post {{/link-to}}</div>
+  {{/if}}
+  <div id="empty-flex-item" ></div>
+
+
+  {{#if model.isLogin}}
+    <div class="header-item-username"><h4>Hello! {{model.username}}</h4></div>
+    <div class="header-item" ><h4 id="logout_button" {{action 'logout' on='click'}}>Logout </h4> </div>
+  {{else}}
+    <div class="header-item" id="signup_button">{{#link-to 'signup' tagName='h4'}}  Sign Up {{/link-to}}</div>
+    <div class="header-item" id="login_button">{{#link-to 'login' tagName='h4'}}  Login {{/link-to}}</div>
+  {{/if}}
+</div>
+<div>
+{{outlet}}
+</div>

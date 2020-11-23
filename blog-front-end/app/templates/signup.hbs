@@ -1,0 +1,18 @@
+<div id="signup">
+  <div id="signup-left"></div>
+
+    <form {{action 'signup' on='submit'}} id="signup-center">
+      <h1 id="register-heading">Register</h1>
+      <input type="text" class="inputbox" placeholder="Username" id="username" required>
+      <input type="Password" class="inputbox" placeholder="Password" id="password" required>
+      <input type="Password" class="inputbox" placeholder="Confirmation Password" id="password_confirmation" required>
+      <input type="text" class="inputbox" placeholder="Full Name" id="fullname" required>
+      <div id="message"></div>
+      <button type="submit" id="submit-button" formaction=""> SIGN UP </button>
+      <p>Already have an account? {{#link-to 'login' }} Login {{/link-to}}</p>
+    </form> <br>
+
+  <div id="signup-right"></div>
+</div>
+
+{{outlet}}

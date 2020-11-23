@@ -1,0 +1,16 @@
+
+<div id="posts-body">
+  <div id="posts-left"></div>
+  <div id="posts">
+    <form id="post" {{action 'createPost' on='submit'}}>
+      <h3>Create Post</h3>
+      <input type="text" placeholder="Title" id="post-title-input" aria-describedby="inputGroup-sizing-lg" required/>
+      <textarea type="text" placeholder="Write here the description" aria-describedby="inputGroup-sizing-lg" id="post-body-input" class="inputbox" required></textarea>
+      <button type="submit" id="create-post-button" formaction=""> Create Post </button>
+    </form>
+  </div>
+  <div id="posts-right"></div>
+</div>
+
+
+

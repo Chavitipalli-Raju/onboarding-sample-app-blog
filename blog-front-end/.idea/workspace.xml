@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b21051c0-14be-4921-b8f7-187b56465ef9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="1jrjC3QzJGfjEJgN0VmIIt40PJc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/templates" />
+      <recent name="$PROJECT_DIR$/app/templates/posts" />
+      <recent name="$PROJECT_DIR$/app/templates/index" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dist/assets" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b21051c0-14be-4921-b8f7-187b56465ef9" name="Default Changelist" comment="" />
+      <created>1604568974187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604568974187</updated>
+      <workItem from="1604568976757" duration="6255000" />
+      <workItem from="1604747896265" duration="31566000" />
+      <workItem from="1605279054216" duration="405000" />
+      <workItem from="1605422011766" duration="5745000" />
+      <workItem from="1605449542253" duration="4937000" />
+      <workItem from="1605498335173" duration="42608000" />
+      <workItem from="1605695708750" duration="33799000" />
+      <workItem from="1606105784430" duration="95000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="171" key="#JSHint" timestamp="1605014748629">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="424" y="171" key="#JSHint/0.23.1680.1027@0.23.1680.1027" timestamp="1605014748629" />
+    <state x="304" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605785555603">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="304" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1605785555603" />
+    <state x="0" y="23" key="FileDocumentManager.FileCacheConflict" timestamp="1604572825929">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="0" y="23" key="FileDocumentManager.FileCacheConflict/0.23.1680.1027@0.23.1680.1027" timestamp="1604572825929" />
+    <state width="1659" height="280" key="GridCell.Tab.0.bottom" timestamp="1605108170135">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="280" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1605108170135" />
+    <state width="1659" height="280" key="GridCell.Tab.0.center" timestamp="1605108170134">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="280" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1605108170134" />
+    <state width="1659" height="280" key="GridCell.Tab.0.left" timestamp="1605108170134">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="280" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1605108170134" />
+    <state width="1659" height="280" key="GridCell.Tab.0.right" timestamp="1605108170135">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1659" height="280" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1605108170135" />
+    <state x="541" y="169" width="598" height="735" key="find.popup" timestamp="1605850601376">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="541" y="169" width="598" height="735" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1605850601376" />
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1605613837120">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1605613837120" />
+  </component>
+</project>
